@@ -114,8 +114,7 @@ Calculated KPIs:
 - Good vs Bad Loan distribution  
 - Loan status performance grid  
 
-![Summary Dashboard](https://raw.githubusercontent.com/Saiswarupa1/bank-loan-analysis-powerbi-mysql/main/Screenshot%20Summary.png)
-
+![Summary Dashboard](images/Screenshot%20Summary.png)
 
 ###  Overview Dashboard
 
@@ -127,7 +126,7 @@ Calculated KPIs:
   - Loan purpose  
   - Home ownership  
 
-![Overview Dashboard](https://raw.githubusercontent.com/Saiswarupa1/bank-loan-analysis-powerbi-mysql/main/Screenshot%20Overview.png)
+![Overview Dashboard](images/Screenshot%20Overview.png)
 
 
 ###  Detailed Dashboard
@@ -136,7 +135,7 @@ Calculated KPIs:
 - Drill-down capabilities  
 - Dynamic filtering (State, Grade, Loan Type)  
 
-![Detailed Dashboard](https://raw.githubusercontent.com/Saiswarupa1/bank-loan-analysis-powerbi-mysql/main/Screenshot%20Details.png)
+![Detailed Dashboard](images/Screenshot%20Details.png)
 
 ## Key Insights
 
@@ -169,6 +168,23 @@ Calculated KPIs:
     - Import processed data OR connect to MySQL
     - Refresh dataset
 
+##  Acknowledgment
+
+This project was inspired by a YouTube tutorial on Bank Loan Analysis using SQL Server and Power BI.
+My contributions in this project:
+
+* Re-implemented the complete data processing and analysis using **MySQL instead of SQL Server**
+* Wrote custom SQL queries for KPI calculations and segmentation
+* Cleaned and structured the dataset independently
+
+For the Power BI dashboard:
+
+* Followed the visualization approach from the original tutorial
+* Recreated the dashboard to understand business insights and reporting techniques
+
+This project reflects my hands-on learning in SQL, data analytics, and dashboard development.
+
+Reference: [Bank Loan Analysis Project Tutorial](https://www.youtube.com/watch?v=3I8wd1AShXs)
 
 ## Conclusion
 
